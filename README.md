@@ -38,4 +38,4 @@ Lets play Connect 4!
 0 1 2 3 4 5 6
 
 Player X, choose a column from 0 to 6!:
-...
+
